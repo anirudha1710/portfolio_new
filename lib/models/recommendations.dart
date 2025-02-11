@@ -31,11 +31,4 @@ final List<Certificates> demoRecommendations = [
     text:
       "Throughout my MERN Full Stack internship, I was a Frontend Developer Intern where i developed and maintained web applications using the MERN stack(MongoDB, Express. js, React. js, Node. js). Worked with developers to both design web applications, and backend code which would communicate through RESTful apis from front-end to back end systems. I was in charge of writing unit and integration tests to guarantee robustness, teaming up with code reviews - hoping that's the new normal length for this article), maintaining high quality of codes (heh...)In addition using version control systems like GitFor efficient management(rest here) I was also working within Agile methodologies, partaking in daily stand-ups and sprint planning meetings as well retrospectives. My major contribution here was building a working web app by the end of my internship time.",
   ),
-  Certificates(
-    name: " Fundamentals of Global Energy Business",
-    source: "Credential",
-    link: 'https://drive.google.com/file/d/1I7iJ0R4Uj-XgrtUmJCAbQLgH8_K8zHts/view?usp=sharing',
-    text:
-      "I have successfully completed the Fundamentals of Global Energy Business course, where I gained a comprehensive understanding of the global energy landscape. This course provided in-depth insights into energy markets, the economics of energy, and the key challenges and opportunities in the energy sector. I explored various energy sources, including fossil fuels, renewables, and emerging technologies, and their impacts on the environment and economy. This certification has equipped me with the knowledge to navigate and contribute to the dynamic and critical field of global energy business, enhancing my ability to analyze and make informed decisions in this sector.",
-  ),
 ];

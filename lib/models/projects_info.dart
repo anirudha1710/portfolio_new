@@ -15,10 +15,10 @@ class ProjectInfo {
 
 List<ProjectInfo> demoProjects = [
   ProjectInfo(
-    title: "Responsive Chat App with firebase backend - Converse",
+    title: "Responsive Disease Prediction App - HealthGuard",
     description:
-        "This is a fully responsive Chat App integrated with firebase backend. This app has it all- phone number verification, one to one chatting , group chatting, 24-hour based status funtionality, user online or offline verification, message seen or not verification, replying to a particular message, sharing emojis, gifs, pictures, video and audio, and calling funtionality with your contacts who uses this app.",
-    link: 'https://github.com/anirudha1710/Converse',
+        " ",
+    link: 'https://github.com/anirudha1710/HealthGuard',
     buttonColor: primaryColor,
   ),
   ProjectInfo(
@@ -26,6 +26,13 @@ List<ProjectInfo> demoProjects = [
     description:
         "TMDB-Movie-App",
     link: 'https://github.com/anirudha1710/CinePick',
+    buttonColor: primaryColor,
+  ),
+  ProjectInfo(
+    title: "Responsive Music Generated App - TuneForge",
+    description:
+    "",
+    link: 'https://github.com/anirudha1710/TuneForge',
     buttonColor: primaryColor,
   ),
 ];
