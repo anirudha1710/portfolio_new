@@ -29,7 +29,7 @@ class HighLightsInfo extends StatelessWidget {
                     Highlights(
                       counter: AnimatedCounter(
                         value: 8,
-                        text: ".06",
+                        text: ".16",
                         color: primaryColor,
                       ),
                       lable: 'CGPA',
@@ -65,7 +65,7 @@ class HighLightsInfo extends StatelessWidget {
                 Highlights(
                   counter: AnimatedCounter(
                     value: 8,
-                    text: '.06',
+                    text: '.16',
                     color: primaryColor,
                   ),
                   lable: 'CGPA',
@@ -80,7 +80,7 @@ class HighLightsInfo extends StatelessWidget {
                 ),
                 Highlights(
                   counter: AnimatedCounter(
-                    value: 150,
+                    value: 200,
                     text: '+',
                     color: Colors.cyan,
                   ),

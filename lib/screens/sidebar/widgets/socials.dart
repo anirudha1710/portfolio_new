@@ -18,8 +18,8 @@ class Socials extends StatelessWidget {
           IconButton(
             onPressed: () async {
               // js.context.callMethod(
-              //     'open', ['https://www.linkedin.com/in/anirudha-sharma-a8080921a/']);
-              const url = 'https://www.linkedin.com/in/anirudha-sharma-a8080921a/';
+              //     'open', ['https://www.linkedin.com/in/anirudha1710/']);
+              const url = 'https://www.linkedin.com/in/anirudha1710/';
               final uri = Uri.parse(url);
               if (await canLaunchUrl(uri)) {
                 await launchUrl(uri);

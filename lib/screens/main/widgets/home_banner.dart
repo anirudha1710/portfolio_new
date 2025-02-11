@@ -33,11 +33,11 @@ class HomeBanner extends StatelessWidget {
                 Text(
                   'Explore my amazing \nProject Space!',
                   style: Responsive.isDesktop(context)
-                      ? Theme.of(context).textTheme.headline3!.copyWith(
+                      ? Theme.of(context).textTheme.headlineLarge!.copyWith(
                             fontWeight: FontWeight.bold,
                             color: Colors.white,
                           )
-                      : Theme.of(context).textTheme.headline5!.copyWith(
+                      : Theme.of(context).textTheme.headlineSmall!.copyWith(
                             fontWeight: FontWeight.bold,
                             color: Colors.white,
                           ),

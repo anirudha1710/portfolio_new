@@ -19,7 +19,7 @@ class MyKnowledge extends StatelessWidget {
             padding: const EdgeInsets.symmetric(vertical: 20.0),
             child: Text(
               'Knowledge',
-              style: Theme.of(context).textTheme.subtitle2,
+              style: Theme.of(context).textTheme.titleSmall,
             ),
           ),
           const MyKnowledgeText(text: 'Flutter, Dart'),

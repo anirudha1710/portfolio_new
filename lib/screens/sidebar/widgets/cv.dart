@@ -29,7 +29,7 @@ class CV extends StatelessWidget {
             Text(
               'DOWNLOAD Resume',
               style: TextStyle(
-                color: Theme.of(context).textTheme.bodyText1!.color,
+                color: Theme.of(context).textTheme.bodyLarge!.color,
               ),
             ),
             const SizedBox(width: 10.0),

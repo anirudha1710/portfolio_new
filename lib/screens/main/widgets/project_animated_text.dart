@@ -12,7 +12,7 @@ class ProjectsAnimatedText extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return DefaultTextStyle(
-      style: Theme.of(context).textTheme.subtitle1!,
+      style: Theme.of(context).textTheme.titleMedium!,
       maxLines: 1,
       child: Row(
         children: [
